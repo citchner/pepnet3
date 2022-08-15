@@ -11,20 +11,20 @@
 <META NAME="author" content="">
 <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
 
-<link rel="stylesheet" href="http://pep-net.eu/wp-content/themes/silver-light-01/style.css" type="text/css" media="screen" />
-<link rel="alternate" type="application/rss+xml" title="PEP-NET RSS Feed" href="http://pep-net.eu/feed/" />
-<link rel="pingback" href="http://pep-net.eu/xmlrpc.php" />
-<link rel='stylesheet' href='http://pep-net.eu/wp-content/plugins/buddypress/bp-core/css/admin-bar.css?ver=2.7.1' type='text/css' media='' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pep-net.eu/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pep-net.eu/wp-includes/wlwmanifest.xml" /> 
-<script type='text/javascript' src='http://pep-net.eu/wp-includes/js/jquery/jquery.js?ver=1.2.6'></script>
-<script type='text/javascript' src='http://pep-net.eu/wp-content/plugins/buddypress/bp-core/js/jquery/jquery.livequery.pack.js?ver=2.7.1'></script>
-<script type='text/javascript' src='http://pep-net.eu/wp-content/plugins/buddypress/bp-core/js/directory-members.js?ver=2.7.1'></script>
-<script type='text/javascript' src='http://pep-net.eu/wp-content/plugins/buddypress/bp-core/js/general.js?ver=2.7.1'></script>
+<link rel="stylesheet" href="https://pep-net.eu/wp-content/themes/silver-light-01/style.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="PEP-NET RSS Feed" href="https://pep-net.eu/feed/" />
+<link rel="pingback" href="https://pep-net.eu/xmlrpc.php" />
+<link rel='stylesheet' href='https://pep-net.eu/wp-content/plugins/buddypress/bp-core/css/admin-bar.css?ver=2.7.1' type='text/css' media='' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pep-net.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pep-net.eu/wp-includes/wlwmanifest.xml" /> 
+<script type='text/javascript' src='https://pep-net.eu/wp-includes/js/jquery/jquery.js?ver=1.2.6'></script>
+<script type='text/javascript' src='https://pep-net.eu/wp-content/plugins/buddypress/bp-core/js/jquery/jquery.livequery.pack.js?ver=2.7.1'></script>
+<script type='text/javascript' src='https://pep-net.eu/wp-content/plugins/buddypress/bp-core/js/directory-members.js?ver=2.7.1'></script>
+<script type='text/javascript' src='https://pep-net.eu/wp-content/plugins/buddypress/bp-core/js/general.js?ver=2.7.1'></script>
 <meta name="generator" content="WordPress 2.7.1" />
 
-<script type="text/javascript">var ajaxurl = "http://pep-net.eu/wp-signup.php";</script>
-<link rel='stylesheet' href='http://pep-net.eu/wp-content/plugins/buddypress/bp-xprofile/css/signup.css?ver=2.7.1' type='text/css' media='' />
+<script type="text/javascript">var ajaxurl = "https://pep-net.eu/wp-signup.php";</script>
+<link rel='stylesheet' href='https://pep-net.eu/wp-content/plugins/buddypress/bp-xprofile/css/signup.css?ver=2.7.1' type='text/css' media='' />
 	<!-- Google Analytics for WordPress | http://www.joostdevalk.nl/wordpress/google-analytics/ -->
 	<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -33,7 +33,7 @@
 	<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-1037117-13");
 	</script>
-	<script src="http://pep-net.eu/wp-content/plugins/gapp/custom_se.js" type="text/javascript"></script>
+	<script src="https://pep-net.eu/wp-content/plugins/gapp/custom_se.js" type="text/javascript"></script>
 	<script type="text/javascript">
 		pageTracker._initData();
 		
@@ -61,17 +61,17 @@
 <body>
 <div id="header">
 <br>
-<a href="http://pep-net.eu/"><img border="0" src="http://pep-net.eu/lg_cre_pep-net_4c_930px.jpg" alt="header"></a><br><br></p>
+<a href="https://pep-net.eu/"><img border="0" src="https://pep-net.eu/lg_cre_pep-net_4c_930px.jpg" alt="header"></a><br><br></p>
 </div>
 <div id="ddnav">
 <div id="nav">
 <ul class="nav">
-<li><a href="http://pep-net.eu">Home</a></li>
-<li class="page_item page-item-2"><a href="http://pep-net.eu/about/" title="About PEP-NET">About PEP-NET</a></li>
-<li class="page_item page-item-7"><a href="http://pep-net.eu/the-partners/" title="Members">Members</a></li>
-<li class="page_item page-item-8"><a href="http://pep-net.eu/becoming-a-member/" title="Get involved">Get involved</a></li>
-<li class="page_item page-item-51"><a href="http://pep-net.eu/calendar/" title="Calendar">Calendar</a></li>
-<li class="page_item page-item-36"><a href="http://pep-net.eu/contact/" title="Contact">Contact</a></li>
+<li><a href="https://pep-net.eu">Home</a></li>
+<li class="page_item page-item-2"><a href="https://pep-net.eu/about/" title="About PEP-NET">About PEP-NET</a></li>
+<li class="page_item page-item-7"><a href="https://pep-net.eu/the-partners/" title="Members">Members</a></li>
+<li class="page_item page-item-8"><a href="https://pep-net.eu/becoming-a-member/" title="Get involved">Get involved</a></li>
+<li class="page_item page-item-51"><a href="https://pep-net.eu/calendar/" title="Calendar">Calendar</a></li>
+<li class="page_item page-item-36"><a href="https://pep-net.eu/contact/" title="Contact">Contact</a></li>
 </ul>
 </div>
 </div>
@@ -84,24 +84,24 @@ Registration has been disabled.</div>
 </div>
 <div id="footer"></div>
 <div id="footerbox">
-<div class="footer">PEP-NET is proudly powered by <a href="http://wordpress.org/">WordPress</a> <a href="http://pep-net.eu/feed/">Entries (RSS)</a> and <a href="http://pep-net.eu/comments/feed/">Comments (RSS)</a>. Theme by <a href="http://www.blogohblog.com">Bob</a>
+<div class="footer">PEP-NET is proudly powered by <a href="http://wordpress.org/">WordPress</a> <a href="https://pep-net.eu/feed/">Entries (RSS)</a> and <a href="https://pep-net.eu/comments/feed/">Comments (RSS)</a>. Theme by <a href="http://www.blogohblog.com">Bob</a>
 <br>
 Supported by: <br>
-<a href="http://ec.europa.eu/index_en.htm"<img border="0" src="http://pep-net.eu/wordpress/wp-content/uploads/2008/07/europa_teaser.gif"/></a> <a href="http://ec.europa.eu/information_society/activities/egovernment/policy/eparticipation/index_en.htm"><img src="http://pep-net.eu/wordpress/wp-content/uploads/2008/07/eparticipation_100.jpg" border="0"/></a>
-  <!-- 24 queries. 0.196 seconds. --><div id="wp-admin-bar"><a href="http://pep-net.eu"><img id="admin-bar-logo" src="http://pep-net.eu/wp-content/plugins/buddypress/bp-core/images/admin_bar_logo.gif" alt="BuddyPress" /></a><ul class="main-nav"><li class="bp-login no-arrow"><a href="http://pep-net.eu/wp-login.php?redirect_to=http%3A%2F%2Fpep-net.eu">Log In</a></li>	<li class="align-right" id="bp-adminbar-visitrandom-menu">
+<a href="http://ec.europa.eu/index_en.htm"<img border="0" src="https://pep-net.eu/wordpress/wp-content/uploads/2008/07/europa_teaser.gif"/></a> <a href="http://ec.europa.eu/information_society/activities/egovernment/policy/eparticipation/index_en.htm"><img src="https://pep-net.eu/wordpress/wp-content/uploads/2008/07/eparticipation_100.jpg" border="0"/></a>
+  <!-- 24 queries. 0.196 seconds. --><div id="wp-admin-bar"><a href="https://pep-net.eu"><img id="admin-bar-logo" src="https://pep-net.eu/wp-content/plugins/buddypress/bp-core/images/admin_bar_logo.gif" alt="BuddyPress" /></a><ul class="main-nav"><li class="bp-login no-arrow"><a href="https://pep-net.eu/wp-login.php?redirect_to=http%3A%2F%2Fpep-net.eu">Log In</a></li>	<li class="align-right" id="bp-adminbar-visitrandom-menu">
 		<a href="#">Visit</a>
 		<ul class="random-list">
-			<li><a href="http://pep-net.eu/members/?random-member">Random Member</a></li>
+			<li><a href="https://pep-net.eu/members/?random-member">Random Member</a></li>
 
-						<li class="alt"><a href="http://pep-net.eu/groups/?random-group">Random Group</a></li>
+						<li class="alt"><a href="https://pep-net.eu/groups/?random-group">Random Group</a></li>
 			
-						<li><a href="http://pep-net.eu/blogs/?random-blog">Random Blog</a></li>
+						<li><a href="https://pep-net.eu/blogs/?random-blog">Random Blog</a></li>
 			
 						
 					</ul>
 	</li>
 	</ul></div><!-- Generated in 0.196 seconds. -->
-		<script src="http://pep-net.eu/wp-content/plugins/gapp/adsense-track.js" type="text/javascript"></script>
+		<script src="https://pep-net.eu/wp-content/plugins/gapp/adsense-track.js" type="text/javascript"></script>
 </div></div>
 
 </body>

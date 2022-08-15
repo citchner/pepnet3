@@ -3,8 +3,8 @@
 <head>
 	<title>Pep-Net - Pan European e-Participation Network &rsaquo; Login</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<link rel='stylesheet' href='http://pep-net.eu/wordpress/wp-admin/css/login.css?version=2.5' type='text/css' />
-<link rel='stylesheet' href='http://pep-net.eu/wordpress/wp-admin/css/colors-fresh.css?version=2.5' type='text/css' />
+	<link rel='stylesheet' href='https://pep-net.eu/wordpress/wp-admin/css/login.css?version=2.5' type='text/css' />
+<link rel='stylesheet' href='https://pep-net.eu/wordpress/wp-admin/css/colors-fresh.css?version=2.5' type='text/css' />
 	<script type="text/javascript">
 		function focusit() {
 			document.getElementById('user_login').focus();
@@ -34,12 +34,12 @@
 </form>
 
 <p id="nav">
-<a href="http://pep-net.eu/wordpress/wp-login.php?action=lostpassword" title="Password Lost and Found">Lost your password?</a>
+<a href="https://pep-net.eu/wordpress/wp-login.php?action=lostpassword" title="Password Lost and Found">Lost your password?</a>
 </p>
 
 </div>
 
-<p id="backtoblog"><a href="http://pep-net.eu/wordpress/" title="Are you lost?">&laquo; Back to Pep-Net - Pan European e-Participation Network</a></p>
+<p id="backtoblog"><a href="https://pep-net.eu/wordpress/" title="Are you lost?">&laquo; Back to Pep-Net - Pan European e-Participation Network</a></p>
 
 </body>
 </html>
