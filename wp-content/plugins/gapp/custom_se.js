@@ -1,10 +1,10 @@
-// This JavaScript was developed by GA-Experts (http://www.ga-experts.co.uk) for Google Analytics
+// This JavaScript was developed by GA-Experts (https://www.ga-experts.co.uk) for Google Analytics
 // Please use this code to overwrite the default set of Search Engines in the GA tracking code
 // Use this code at your own risk.  GA Experts takes no responsibility for errors, loss of data or any other complications arising from the use of this code
 // Version 2.0 (Mar 2007) - many thanks to Brian Clifton and Tomas Remotigue for help with this
 // For enquiries please contact mail@ga-experts.co.uk
 
-// Dutch Search Engines added by Joost de Valk (http://www.joostdevalk.nl)
+// Dutch Search Engines added by Joost de Valk (https://www.joostdevalk.nl)
 // For enquiries specifically about the Dutch SE's please contact joost@joostdevalk.nl
 
 // Google EMEA Image domains

@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" dir="ltr">
 <head>
 	<title>Pep-Net - Pan European e-Participation Network &rsaquo; Login</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -14,7 +14,7 @@
 </head>
 <body class="login">
 
-<div id="login"><h1><a href="http://wordpress.org/" title="Powered by WordPress">Pep-Net - Pan European e-Participation Network</a></h1>
+<div id="login"><h1><a href="https://wordpress.org/" title="Powered by WordPress">Pep-Net - Pan European e-Participation Network</a></h1>
 
 <form name="loginform" id="loginform" action="wp-login.php" method="post">
 	<p>

@@ -1,9 +1,9 @@
 
 /******************************************************************************
 Modified with permission from Jim Rotherford's Adsense Pepper
-(http://www.digitalmediaminute.com/) 
+(https://www.digitalmediaminute.com/) 
 
-© SeoBook.com. For updates see http://www.seobook.com/archives/001370.shtml 
+© SeoBook.com. For updates see https://www.seobook.com/archives/001370.shtml 
 You are allowed to use this but you should keep this copyright notice here
 
 ******************************************************************************/

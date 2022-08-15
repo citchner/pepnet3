@@ -18,7 +18,7 @@
 		construct: function(button) {
 			var newButton = document.createElement('iframe');
 
-			var url = "http://api.tweetmeme.com/button.js?url=" + escape(button.href);
+			var url = "https://api.tweetmeme.com/button.js?url=" + escape(button.href);
 
 			// get all the addiontial options
 			url += '&amp;' + button.rel.toLowerCase();

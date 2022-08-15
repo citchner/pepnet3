@@ -1,6 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head profile="http://gmpg.org/xfn/11">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head profile="https://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>PEP-NET  </title>
 <meta name="generator" content="WordPress 2.7.1" /> <!-- leave this for stats -->
@@ -25,9 +25,9 @@
 
 <script type="text/javascript">var ajaxurl = "https://pep-net.eu/wp-signup.php";</script>
 <link rel='stylesheet' href='https://pep-net.eu/wp-content/plugins/buddypress/bp-xprofile/css/signup.css?ver=2.7.1' type='text/css' media='' />
-	<!-- Google Analytics for WordPress | http://www.joostdevalk.nl/wordpress/google-analytics/ -->
+	<!-- Google Analytics for WordPress | https://www.joostdevalk.nl/wordpress/google-analytics/ -->
 	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 	</script>
 	<script type="text/javascript">
@@ -40,7 +40,7 @@
 		pageTracker._trackPageview();
 	</script>
 	<!-- End of Google Analytics code -->
-		<script type="text/javascript" src="http://www.google.com/friendconnect/script/friendconnect.js"></script>
+		<script type="text/javascript" src="https://www.google.com/friendconnect/script/friendconnect.js"></script>
 	<meta name='robots' content='noindex,nofollow' />
 	<style type="text/css">	
 		.mu_register { width: 90%; margin:0 auto; }
@@ -84,10 +84,10 @@ Registration has been disabled.</div>
 </div>
 <div id="footer"></div>
 <div id="footerbox">
-<div class="footer">PEP-NET is proudly powered by <a href="http://wordpress.org/">WordPress</a> <a href="https://pep-net.eu/feed/">Entries (RSS)</a> and <a href="https://pep-net.eu/comments/feed/">Comments (RSS)</a>. Theme by <a href="http://www.blogohblog.com">Bob</a>
+<div class="footer">PEP-NET is proudly powered by <a href="https://wordpress.org/">WordPress</a> <a href="https://pep-net.eu/feed/">Entries (RSS)</a> and <a href="https://pep-net.eu/comments/feed/">Comments (RSS)</a>. Theme by <a href="https://www.blogohblog.com">Bob</a>
 <br>
 Supported by: <br>
-<a href="http://ec.europa.eu/index_en.htm"<img border="0" src="https://pep-net.eu/wordpress/wp-content/uploads/2008/07/europa_teaser.gif"/></a> <a href="http://ec.europa.eu/information_society/activities/egovernment/policy/eparticipation/index_en.htm"><img src="https://pep-net.eu/wordpress/wp-content/uploads/2008/07/eparticipation_100.jpg" border="0"/></a>
+<a href="https://ec.europa.eu/index_en.htm"<img border="0" src="https://pep-net.eu/wordpress/wp-content/uploads/2008/07/europa_teaser.gif"/></a> <a href="https://ec.europa.eu/information_society/activities/egovernment/policy/eparticipation/index_en.htm"><img src="https://pep-net.eu/wordpress/wp-content/uploads/2008/07/eparticipation_100.jpg" border="0"/></a>
   <!-- 24 queries. 0.196 seconds. --><div id="wp-admin-bar"><a href="https://pep-net.eu"><img id="admin-bar-logo" src="https://pep-net.eu/wp-content/plugins/buddypress/bp-core/images/admin_bar_logo.gif" alt="BuddyPress" /></a><ul class="main-nav"><li class="bp-login no-arrow"><a href="https://pep-net.eu/wp-login.php?redirect_to=http%3A%2F%2Fpep-net.eu">Log In</a></li>	<li class="align-right" id="bp-adminbar-visitrandom-menu">
 		<a href="#">Visit</a>
 		<ul class="random-list">
